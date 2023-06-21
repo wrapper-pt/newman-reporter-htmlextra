@@ -240,7 +240,7 @@ This software is licensed under Apache-2.0. See the [LICENSE.md](LICENSE.md) fil
 
 ---
 
-## Special mention
+## Special mention!
 
 This work have been hugely inspired and copied several aspects of the great work done by [Martijn Vander Vlag](https://github.com/martijnvandervlag) to create the [newman-reporter-htmlfull](https://github.com/martijnvandervlag/newman-reporter-htmlfull) package. Check out that package too, this contains many of the same aggregation features.
 
